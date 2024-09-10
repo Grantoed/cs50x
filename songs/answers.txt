@@ -1,0 +1,1 @@
+This isn't very accurate because it uses data from one year and only the top 100 songs. I think that results accuracy can be improved by including more years/songs and adding some coeficient to consider how much these songs were played.
