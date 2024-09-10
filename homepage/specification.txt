@@ -1,0 +1,8 @@
+HTML Tags:
+<h1>, <h3>, <p>, <a>, <img>, <ul>, <li>, <form>, <input>, <button>
+
+CSS Properties:
+font-size, margin, padding, background-color, text-align
+
+JS: Added an alert on form submission.
+Bootstrap: Used for layout, buttons, and nav.
